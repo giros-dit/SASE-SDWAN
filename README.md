@@ -1,5 +1,11 @@
 # VNX SD-WAN and SASE Scenario
 
+## Acknowledgements
+
+This work is a result of project [ECTICS](https://www.dit.upm.es/~giros/project/ectics/) (PID2019-105257RB-C21), funded by:
+
+![financing-logo](doc/img/MICIU_AEI_w400.jpg)
+
 ## Overview
 
 This project provides a comprehensive simulation environment for a Secure Access Service Edge (SASE) scenario, integrating Software-Defined Wide Area Network (SD-WAN) technologies and remote work models. Built using the Virtual Networks over Linux (VNX) framework, it enables the deployment and testing of advanced network configurations, including virtualized network functions, edge computing, and integrated security services.
